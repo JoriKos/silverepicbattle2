@@ -1,4 +1,4 @@
-public class Player {
+public class Player extends Armour{
 
     private int health;
     private int attack;
